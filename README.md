@@ -6,7 +6,9 @@
 
 🎓 I'm a computer science student diving into the world of backend development.  
 💻 I’m currently working with **PHP** and **Laravel** to build web applications. 
+<br>
 🎨 I also use TailwindCSS, Alpine.js, and JavaScript to create responsive UIs when needed. 
+<br>
 🛠️ Passionate about clean code, scalable systems, and continuous learning.  
 
 
